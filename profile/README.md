@@ -1,4 +1,6 @@
-# Diagora 🛍️
+<img width="100%" height="auto"  alt="Screenshot 2025-12-10 at 20 26 29" src="https://github.com/user-attachments/assets/eb3084cb-3bd3-4ec6-8195-58cf1d1a02f7" />
+
+# diagora 🛍️
 
 **Contextual Commerce Infrastructure for the Phygital World**
 
